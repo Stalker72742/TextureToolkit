@@ -1,0 +1,7 @@
+Binaries/
+Intermediate/
+*.pdb
+*.obj
+.vs/
+.idea/
+*.user

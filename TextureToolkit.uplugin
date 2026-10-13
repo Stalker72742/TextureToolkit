@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Texture Toolkit",
+	"Description": "Editor texture optimization tools: downscaling, channel packing (ORM and similar masks), channel splitting and interactive atlas building with Paper2D sprites.",
+	"Category": "Editor",
+	"CreatedBy": "Stalker7274",
+	"CreatedByURL": "https://github.com/Stalker72742",
+	"DocsURL": "https://github.com/Stalker72742/TextureToolkit",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TextureToolkit",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
