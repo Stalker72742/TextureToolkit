@@ -1,5 +1,10 @@
 # Texture Toolkit
 
+> [!WARNING]
+> **Work in progress.** The plugin is under active development and has not been fully tested yet.
+> Expect bugs and breaking changes. Back up or commit your project before running destructive
+> operations (Resize Source, Generate over existing assets, Replace All References).
+
 Editor plugin for Unreal Engine 5 that bundles everyday texture optimization work into one tab:
 downscaling textures, packing masks into ORM-like textures, transferring and splitting channels,
 and building UI atlases interactively with Paper2D sprites that can replace textures in your widgets.
